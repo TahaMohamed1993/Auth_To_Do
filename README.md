@@ -13,9 +13,11 @@ This is a simple to-do application built using Flutter. It utilizes the BLoC pat
 
 
 ## Screenshots
-![Screenshot 2023-05-20 143349](https://github.com/TahaMohamed1993/Auth_To_Do/assets/91631512/61e30793-8c1e-4d2b-a2a1-0a151a60d9fc)
-![Screenshot_1684454559](https://github.com/TahaMohamed1993/Auth_To_Do/assets/91631512/f8981cf8![Screenshot 2023-05-09 201913](https://github.com/TahaMohamed1993/Auth_To_Do/assets/91631512/d59e959d-5663-43c4-9f3c-86066655e5cb)
--172e-43f1-bef7-59b53a3e6c3c)
+
+![Screenshot_1684454559](https://github.com/TahaMohamed1993/Auth_To_Do/assets/91631512/8091cca2-0d10-4869-9ffe-b88a29150b3a)
+![Screenshot 2023-05-06 023738](https://github.com/TahaMohamed1993/Auth_To_Do/assets/91631512/2844114c-2e73-4c4e-b51a-5ebe397ffada)
+![Screenshot 2023-05-09 201913](https://github.com/TahaMohamed1993/Auth_To_Do/assets/91631512/14cd7368-ebbd-436f-8b08-6afabac2fa3e)
+![Screenshot 2023-05-20 143349](https://github.com/TahaMohamed1993/Auth_To_Do/assets/91631512/2b6cef9e-1b37-43d0-bc1e-8697a0aaea5a)
 
 
 ## Demo Video
